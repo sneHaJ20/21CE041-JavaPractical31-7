@@ -5,8 +5,8 @@ row records a student’s answers to the questions, as shown in the following ar
 Key to the Questions:0 1 2 3 4 5 6 7 8 9
 Key D B D C C D A E A D
 DYour program grades the test and displays the result. It compares each student’s answers 
-with the key, counts the number of correct answers, and displays it.
-package Practical1;*/
+with the key, counts the number of correct answers, and displays it.*/
+package Practical1;
 
 public class Practical8 {
     public static void main(String[] args) {
