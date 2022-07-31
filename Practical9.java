@@ -1,3 +1,5 @@
+//21ce041 Sneha Jadeja
+// Aim-The problem is to check whether a given Sudoku solution is correct.
 package Practical1;
 
 import java.util.Scanner;
