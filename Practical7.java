@@ -1,3 +1,13 @@
+//21ce041_SnehaJadeja
+//Aim- Display numbers in a pyramid pattern.
+/*                1
+               1 2 1
+             1 2 4 2 1
+           1 2 4 8 4 2 1
+         1 2 4 8 16 8 4 2 1
+      1 2 4 8 16 32 16 8 4 2 1
+    1 2 4 8 16 32 64 32 16 8 4 2 1
+ 1 2 4 8 16 32 64 128 64 32 16 8 4 2 1 */
 package Practical1;
 
 public class Practical7 {
